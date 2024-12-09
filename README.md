@@ -9,6 +9,6 @@ Convierte tu ESP8266 en un deautenticador wifi de redes 2.4G para pruebas de seg
 
 # Instalación
 --------------
-la instalación va a ser muy sencilla, solo hay que entrar en el IDE de Arduino y vamos a instalar el sketch en nuestra placa (la que corresponda)
+la instalación va a ser muy sencilla, solo hay que entrar en el IDE de Arduino y vamos a cargar el sketch en nuestra placa (la que corresponda)
 
 
